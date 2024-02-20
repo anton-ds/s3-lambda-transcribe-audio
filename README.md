@@ -53,7 +53,7 @@ How does it work? After the file is uploaded, it is processed, and as soon as th
 
 5. **Inserting the Function Code**
 
-   Now, simply insert the function code from this repository (and deploy it):
+   Now, simply insert the function code from this repository [index.mjs](index.mjs) (and deploy it):
 
 ![Code.jpg](images%2FCode.jpg)
 
