@@ -8,6 +8,7 @@ The solution is quite simple – a Lambda function that responds to events of ad
 
 How does it work? After the file is uploaded, it is processed, and as soon as the result is ready, a text file with the transcription will appear next to the audio file in your bucket.
 
+![Poster.png](images%2FPoster.png)
 
 ## Getting Started
 
